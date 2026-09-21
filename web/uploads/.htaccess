@@ -1,0 +1,7 @@
+# Deny direct public web access to uploaded files
+# All files must be accessed through authenticated PHP endpoints
+Require all denied
+<Files *>
+    Order deny,allow
+    Deny from all
+</Files>

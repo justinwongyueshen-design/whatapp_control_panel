@@ -1,0 +1,13 @@
+{
+  "api_url": "http://localhost:8080/web/api",
+  "worker_token": "INSERT_YOUR_WORKER_TOKEN_HERE",
+  "browser_type": "chromium",
+  "headless": false,
+  "profile_path": "./whatsapp_session",
+  "log_file": "./logs/worker.log",
+  "heartbeat_interval": 30,
+  "job_poll_interval": 5,
+  "message_delay_min": 5,
+  "message_delay_max": 15,
+  "max_retries": 3
+}

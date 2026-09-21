@@ -1,0 +1,6 @@
+2026-09-21 15:25:29,776 - whatsapp_worker - INFO - WhatsApp Worker started
+2026-09-21 15:25:29,777 - whatsapp_worker - INFO - Python 3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+2026-09-21 15:25:29,777 - whatsapp_worker - INFO - Initializing WhatsApp Worker...
+2026-09-21 16:45:44,830 - whatsapp_worker - INFO - WhatsApp Worker started
+2026-09-21 16:45:44,830 - whatsapp_worker - INFO - Python 3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]
+2026-09-21 16:45:44,831 - whatsapp_worker - INFO - Initializing WhatsApp Worker...

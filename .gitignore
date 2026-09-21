@@ -1,0 +1,16 @@
+# Environment and config secrets
+worker/config.ini
+worker/whatsapp_profile/
+worker/venv/
+worker/*.log
+worker/diagnostics/
+
+# Web uploads & sessions
+web/uploads/*
+!web/uploads/.htaccess
+
+# Cache & OS files
+__pycache__/
+*.pyc
+Thumbs.db
+.DS_Store
