@@ -10,9 +10,9 @@
 // DATABASE CONFIGURATION
 // ============================================================================
 define('DB_HOST', getenv('DB_HOST') ?: 'localhost');
-define('DB_USER', getenv('DB_USER') ?: 'root');
-define('DB_PASS', getenv('DB_PASS') ?: '');
-define('DB_NAME', getenv('DB_NAME') ?: 'whatsapp_bot');
+define('DB_USER', getenv('DB_USER') ?: 'synergy1_yenping');
+define('DB_PASS', getenv('DB_PASS') ?: 'R.zb0ZwEuGZ}*fW2');
+define('DB_NAME', getenv('DB_NAME') ?: 'synergy1_justinwong_whatsapp_control_panel');
 define('DB_CHARSET', 'utf8mb4');
 
 // ============================================================================

@@ -31,9 +31,9 @@ date_default_timezone_set(APP_TIMEZONE);
 // Database configuration
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', 3306);
-define('DB_NAME', 'whatsapp_control_panel');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_NAME', 'synergy1_justinwong_whatsapp_control_panel');
+define('DB_USER', 'synergy1_yenping');
+define('DB_PASS', 'R.zb0ZwEuGZ}*fW2');
 define('DB_CHARSET', 'utf8mb4');
 
 // Directory paths
